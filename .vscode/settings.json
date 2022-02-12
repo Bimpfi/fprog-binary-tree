@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "iosfwd": "cpp"
+  },
+  "files.exclude": {
+    "node_modules/": false,
+    "dist/": false,
+    "lib/": false,
+    "main.exe": false,
+    "BinaryTree_impl.cpp": false
+  }
+}
